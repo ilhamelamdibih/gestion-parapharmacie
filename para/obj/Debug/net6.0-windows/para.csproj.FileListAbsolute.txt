@@ -1,0 +1,104 @@
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\para.exe
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\para.deps.json
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\para.runtimeconfig.json
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\para.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\para.pdb
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\Guna.Charts.WinForms.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.achats.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.categorie.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.client.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.Commande.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.Dashboard.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.fournisseur.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.ListClient.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.login.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.NouveauClient.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.produit.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.Properties.Resources.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.reference.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.transactions.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.ventes.resources
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.csproj.CopyComplete
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.dll
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\refint\para.dll
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.pdb
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\ref\para.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\iTextSharp.LGPLv2.Core.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\lenovo\Desktop\para\para\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Desktop\para\para\obj\Debug\net6.0-windows\para.TousLesCommandes.resources
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\para.exe
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\para.deps.json
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\para.runtimeconfig.json
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\para.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\para.pdb
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\Google.Protobuf.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\Guna.Charts.WinForms.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\Guna.UI2.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\iTextSharp.LGPLv2.Core.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\MySql.Data.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\ZstdNet.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\SkiaSharp.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\System.Management.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+F:\Bureau C\para\para\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.csproj.AssemblyReference.cache
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.achats.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.categorie.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.client.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.Commande.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.Dashboard.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.fournisseur.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.ListClient.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.login.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.NouveauClient.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.produit.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.Properties.Resources.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.reference.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.TousLesCommandes.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.transactions.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.ventes.resources
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.csproj.GenerateResource.cache
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.AssemblyInfoInputs.cache
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.AssemblyInfo.cs
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.csproj.CoreCompileInputs.cache
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.csproj.CopyComplete
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.dll
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\refint\para.dll
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.pdb
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\para.genruntimeconfig.cache
+F:\Bureau C\para\para\obj\Debug\net6.0-windows\ref\para.dll
